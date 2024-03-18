@@ -138,7 +138,7 @@
     "apollo-client": "^2.6.10",
     "apollo-link-http": "^1.5.17",
     "dayjs": "^1.10.4",
-    "graphql": "^15.5.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.11.0",
     "lightweight-charts": "^3.3.0",
     "ms": "^2.1.3",
