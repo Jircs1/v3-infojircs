@@ -146,7 +146,7 @@
     "numeral": "^2.0.6",
     "react-hot-keys": "^2.7.2",
     "react-hotkeys": "^2.0.0",
-    "recharts": "^2.0.9",
+    "recharts": "^2.12.1",
     "ua-parser-js": "^1.0.36",
     "uifx": "^2.0.7",
     "yarn-deduplicate": "^6.0.2"
